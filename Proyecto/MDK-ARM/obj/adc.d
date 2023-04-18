@@ -1,0 +1,14 @@
+.\obj\adc.o: ..\USER\ADC.c
+.\obj\adc.o: ..\USER\ADC.h
+.\obj\adc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\adc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\adc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\Math.h
+.\obj\adc.o: ..\Libraries\CM3\DeviceSupport\LPC17xx.H
+.\obj\adc.o: ..\Libraries\CM3\CoreSupport\core_cm3.h
+.\obj\adc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\adc.o: ..\Libraries\CM3\CoreSupport\core_cmInstr.h
+.\obj\adc.o: ..\Libraries\CM3\CoreSupport\core_cmFunc.h
+.\obj\adc.o: ..\Libraries\CM3\DeviceSupport\system_LPC17xx.h
+.\obj\adc.o: ..\Libraries\GLCD\GLCD.h
+.\obj\adc.o: ..\Libraries\TouchPanel\TouchPanel.h
+.\obj\adc.o: ..\USER\Timer.h

@@ -1,0 +1,17 @@
+.\obj\interrupciones.o: ..\USER\Interrupciones.c
+.\obj\interrupciones.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\interrupciones.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\interrupciones.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\Math.h
+.\obj\interrupciones.o: ..\Libraries\CM3\DeviceSupport\LPC17xx.H
+.\obj\interrupciones.o: ..\Libraries\CM3\CoreSupport\core_cm3.h
+.\obj\interrupciones.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\interrupciones.o: ..\Libraries\CM3\CoreSupport\core_cmInstr.h
+.\obj\interrupciones.o: ..\Libraries\CM3\CoreSupport\core_cmFunc.h
+.\obj\interrupciones.o: ..\Libraries\CM3\DeviceSupport\system_LPC17xx.h
+.\obj\interrupciones.o: ..\USER\ADC.h
+.\obj\interrupciones.o: ..\Libraries\GLCD\GLCD.h
+.\obj\interrupciones.o: ..\Libraries\TouchPanel\TouchPanel.h
+.\obj\interrupciones.o: ..\USER\timer.h
+.\obj\interrupciones.o: ..\USER\Interrupciones.h
+.\obj\interrupciones.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\obj\interrupciones.o: ..\USER\tp_simple.h

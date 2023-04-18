@@ -1,0 +1,10 @@
+.\obj\dac.o: ..\USER\DAC.c
+.\obj\dac.o: ..\Libraries\CM3\DeviceSupport\LPC17xx.H
+.\obj\dac.o: ..\Libraries\CM3\CoreSupport\core_cm3.h
+.\obj\dac.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\dac.o: ..\Libraries\CM3\CoreSupport\core_cmInstr.h
+.\obj\dac.o: ..\Libraries\CM3\CoreSupport\core_cmFunc.h
+.\obj\dac.o: ..\Libraries\CM3\DeviceSupport\system_LPC17xx.h
+.\obj\dac.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\dac.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\dac.o: ..\USER\DAC.h
