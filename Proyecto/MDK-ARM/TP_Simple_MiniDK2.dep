@@ -1,0 +1,44 @@
+Dependencies for Project 'TP_Simple', Target 'MiniDK2': (DO NOT MODIFY !)
+F (..\Libraries\CM3\CoreSupport\core_cm3.c)(0x4DD1370A)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport -I..\Libraries\GLCD -I..\Libraries\TouchPanel -I..\USER -I..\Libraries\LPC1700CMSIS_Firmware_Library\include-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\core_cm3.o --omf_browse .\obj\core_cm3.crf --depend .\obj\core_cm3.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C827C4)
+F (..\Libraries\CM3\DeviceSupport\startup_LPC17xx.s)(0x5996C81C)(--cpu Cortex-M3 -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx--list .\lst\startup_lpc17xx.lst --xref -o .\obj\startup_lpc17xx.o --depend .\obj\startup_lpc17xx.d)
+F (..\Libraries\CM3\DeviceSupport\system_LPC17xx.c)(0x4E6F4B50)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport -I..\Libraries\GLCD -I..\Libraries\TouchPanel -I..\USER -I..\Libraries\LPC1700CMSIS_Firmware_Library\include-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\system_lpc17xx.o --omf_browse .\obj\system_lpc17xx.crf --depend .\obj\system_lpc17xx.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C827C4)
+I (..\Libraries\CM3\DeviceSupport\LPC17xx.h)(0x4E395E56)
+I (..\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E395E56)
+I (..\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD1370A)
+I (..\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD1370A)
+I (..\Libraries\CM3\DeviceSupport\system_LPC17xx.h)(0x4DD1370A)
+F (..\Libraries\GLCD\AsciiLib.c)(0x5F88E87A)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport -I..\Libraries\GLCD -I..\Libraries\TouchPanel -I..\USER -I..\Libraries\LPC1700CMSIS_Firmware_Library\include-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\asciilib.o --omf_browse .\obj\asciilib.crf --depend .\obj\asciilib.d)
+I (..\Libraries\GLCD\AsciiLib.h)(0x4CEFE480)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C827C4)
+F (..\Libraries\GLCD\GLCD.c)(0x6149AC65)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport -I..\Libraries\GLCD -I..\Libraries\TouchPanel -I..\USER -I..\Libraries\LPC1700CMSIS_Firmware_Library\include-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\glcd.o --omf_browse .\obj\glcd.crf --depend .\obj\glcd.d)
+I (..\Libraries\CM3\DeviceSupport\LPC17xx.H)(0x4E395E56)
+I (..\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E395E56)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C827C4)
+I (..\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD1370A)
+I (..\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD1370A)
+I (..\Libraries\CM3\DeviceSupport\system_LPC17xx.h)(0x4DD1370A)
+I (..\Libraries\GLCD\GLCD.h)(0x5800592A)
+I (..\Libraries\GLCD\AsciiLib.h)(0x4CEFE480)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C827C4)
+F (..\Libraries\TouchPanel\TouchPanel.c)(0x5F8A767A)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport -I..\Libraries\GLCD -I..\Libraries\TouchPanel -I..\USER -I..\Libraries\LPC1700CMSIS_Firmware_Library\include-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\touchpanel.o --omf_browse .\obj\touchpanel.crf --depend .\obj\touchpanel.d)
+I (..\Libraries\GLCD\GLCD.h)(0x5800592A)
+I (..\Libraries\CM3\DeviceSupport\LPC17xx.H)(0x4E395E56)
+I (..\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E395E56)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C827C4)
+I (..\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD1370A)
+I (..\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD1370A)
+I (..\Libraries\CM3\DeviceSupport\system_LPC17xx.h)(0x4DD1370A)
+I (..\Libraries\TouchPanel\TouchPanel.h)(0x5F8A750B)
+F (..\USER\tp_simple.c)(0x6149ABCE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport -I..\Libraries\GLCD -I..\Libraries\TouchPanel -I..\USER -I..\Libraries\LPC1700CMSIS_Firmware_Library\include-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\tp_simple.o --omf_browse .\obj\tp_simple.crf --depend .\obj\tp_simple.d)
+I (..\Libraries\CM3\DeviceSupport\LPC17xx.H)(0x4E395E56)
+I (..\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E395E56)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C827C4)
+I (..\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD1370A)
+I (..\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD1370A)
+I (..\Libraries\CM3\DeviceSupport\system_LPC17xx.h)(0x4DD1370A)
+I (..\Libraries\GLCD\glcd.h)(0x5800592A)
+I (..\Libraries\TouchPanel\TouchPanel.h)(0x5F8A750B)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C827C4)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C827C4)
